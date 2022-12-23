@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nataliaskrzypczak
+- 👀 I’m interested in interior designing
+- 🌱 I’m currently learning Data Science with InfoShare Academy
